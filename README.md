@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I’m Muhammad Waqas, a **MERN & Next.js Developer**  
 
-<!--
-**waqaswebsolutions/waqaswebsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I build **fast, modern web apps** with React, Node.js & MongoDB  
+🛠 **Tech Stack:**  
+- **Frontend:** React, Next.js, TailwindCSS  
+- **Backend:** Node.js, Express, MongoDB  
+- **Tools:** Git, Docker, AWS  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let’s Connect!**  
+- 📩 Email: chocolatywiqi@gmail.com
+- 💼 LinkedIn: Muhammad Waqas - https://www.linkedin.com/in/muhammad-waqas545/ 
+
+🔍 **Open for freelance work & collaborations!**  
